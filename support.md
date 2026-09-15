@@ -2,7 +2,7 @@
 title: Folio Support
 permalink: /support/
 ---
-Folio is a native reader for Markdown, text, code, PDFs, and images on iPhone, iPad, and Mac, made by BlueTao LLC. This page answers the common questions; for anything else, open an issue on [Folio's support repository](https://github.com/BlueTaoLLC/FolioApp/issues).
+Folio is a native reader for Markdown, text, code, PDFs, and images on iPhone, iPad, and Mac, made by BlueTao LLC. This page answers the common questions; for anything else, write to [folio@bluetao.com](mailto:folio@bluetao.com) or open an issue on [Folio's support repository](https://github.com/BlueTaoLLC/FolioApp/issues).
 
 ## Getting started
 

@@ -14,4 +14,4 @@ Copying places text on the system clipboard. Sharing sends the text to the desti
 
 Removing a document from the library removes Folio's cached copy and saved source metadata. It does not delete the original file or copies that you previously shared or backed up.
 
-Questions about this policy can be asked through the [Folio support page](../support/).
+Questions about this policy can be sent to [folio@bluetao.com](mailto:folio@bluetao.com).
