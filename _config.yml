@@ -1,0 +1,9 @@
+title: Folio
+description: A quiet, native reader for Markdown, code, PDFs, and images on iPhone, iPad, and Mac.
+url: https://bluetaollc.github.io
+baseurl: /FolioApp
+markdown: kramdown
+exclude: [README.md, Gemfile, Gemfile.lock]
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }

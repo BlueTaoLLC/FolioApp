@@ -1,0 +1,22 @@
+:root { color-scheme: light dark; --bg:#fdfcf9; --ink:#303932; --muted:#798079; --line:#e5e8e0; --accent:#426c58; --code:#f0f2ec; }
+@media (prefers-color-scheme: dark) { :root { --bg:#121212; --ink:#dce2d9; --muted:#99a398; --line:#2e2e2e; --accent:#a0c8ab; --code:#1c1c1c; } }
+* { box-sizing:border-box; }
+html { background:var(--bg); }
+body { margin:0 auto; max-width:720px; padding:0 24px 64px; color:var(--ink); font:18px/1.7 Georgia, "Times New Roman", serif; overflow-wrap:break-word; }
+header.site { display:flex; justify-content:space-between; align-items:baseline; padding:28px 0 12px; border-bottom:1px solid var(--line); margin-bottom:40px; font:15px -apple-system, BlinkMacSystemFont, sans-serif; }
+header.site .brand { font-weight:600; letter-spacing:2px; text-transform:uppercase; font-size:13px; color:var(--accent); text-decoration:none; }
+header.site nav a { margin-left:20px; color:var(--muted); text-decoration:none; }
+header.site nav a:hover, main a:hover { color:var(--accent); }
+main a { color:var(--accent); text-underline-offset:4px; }
+h1 { font-size:2.2em; line-height:1.2; letter-spacing:-.02em; margin:0 0 24px; }
+h2 { font-size:1.35em; margin:44px 0 14px; letter-spacing:-.015em; }
+h3 { font-size:1.1em; margin:30px 0 10px; }
+p, ul, ol { margin:0 0 20px; }
+li { margin:6px 0; }
+.lede { font-size:1.25em; color:var(--muted); margin-bottom:36px; }
+code { font:.85em ui-monospace, SFMono-Regular, Menlo, monospace; background:var(--code); padding:2px 6px; border-radius:4px; }
+table { border-collapse:collapse; width:100%; font:.9em -apple-system, BlinkMacSystemFont, sans-serif; margin:0 0 24px; }
+th, td { text-align:left; padding:10px 12px; border-bottom:1px solid var(--line); vertical-align:top; }
+th { color:var(--muted); font-weight:500; }
+footer.site { margin-top:64px; padding-top:20px; border-top:1px solid var(--line); color:var(--muted); font:14px -apple-system, BlinkMacSystemFont, sans-serif; }
+@media (max-width:600px) { body { font-size:17px; padding:0 18px 48px; } h1 { font-size:1.8em; } }
