@@ -13,11 +13,11 @@ Open a file with **Document** in the Open row at the bottom of the sidebar, brow
 - The outline button jumps between headings in Markdown and reStructuredText and between bookmarks in a PDF.
 - Find highlights every match in the page or PDF.
 - Reading settings choose light, dark, or automatic appearance, serif or sans-serif type, text size, line spacing, and page width. Settings → Code chooses a color scheme for code or turns coloring off.
-- Show Source reveals the document's own text. Share sends the text, or the file for PDFs and images.
+- Show Source reveals the document's own text. Share offers Share Source, the document as a file, and Export PDF, a paginated copy of the page; for PDFs and images it sends the file.
 
 ## Folio Plus
 
-Complete text documents up to 10 KB read for free, and PDFs and images always do. Larger text documents show a fading preview of the first 10 KB and an invitation to unlock the rest. Folio Plus unlocks them and, on Mac, adds Export to PDF and Print.
+Complete text documents up to 10 KB read for free, and PDFs and images always do. Larger text documents show a fading preview of the first 10 KB and an invitation to unlock the rest. Folio Plus unlocks them, along with Export PDF and, on Mac, Print.
 
 - **Folio Plus Lifetime**, $19.99 (USD), one purchase, no recurring charge.
 - **Folio Plus Yearly**, $9.99 (USD) per year, renewing automatically until canceled.

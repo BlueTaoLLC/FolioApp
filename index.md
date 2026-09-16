@@ -8,7 +8,7 @@ Folio is being prepared for the App Store. This page will carry the download lin
 
 ## Markdown and reStructuredText the way they were meant to look
 
-Headings, lists, tables, task lists, blockquotes, code blocks, links, and images render on a page designed for reading, in light or dark, with serif or sans-serif type, and with text size, line spacing, and page width under your control. Equations in TeX notation render offline. An outline jumps between headings, Find highlights every match, and Show Source reveals the document's own text. reStructuredText files render the same way, with the Sphinx signatures, version notes, and cross-references of Python's own documentation.
+Headings, lists, tables, task lists, blockquotes, code blocks, links, and images render on a page designed for reading, in light or dark, with serif or sans-serif type, and with text size, line spacing, and page width under your control. Equations in TeX notation render offline. An outline jumps between headings, Find highlights every match, Show Source reveals the document's own text, and Share offers the source file or a PDF of the page. reStructuredText files render the same way, with the Sphinx signatures, version notes, and cross-references of Python's own documentation.
 
 ## Every text file, exactly as written
 
@@ -28,7 +28,7 @@ There is no account, no analytics, no advertising, and no upload service. Docume
 
 ## Free to begin, simple to unlock
 
-Read complete text documents up to 10 KB for free, and view PDFs and images without limit. Folio Plus unlocks larger documents and, on Mac, Export to PDF and Print:
+Read complete text documents up to 10 KB for free, and view PDFs and images without limit. Folio Plus unlocks larger documents, Export PDF, and, on Mac, Print:
 
 - **Folio Plus Lifetime**, a one-time purchase of $19.99 (USD).
 - **Folio Plus Yearly**, an auto-renewing subscription of $9.99 (USD) per year.
