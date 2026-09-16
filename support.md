@@ -19,8 +19,8 @@ Open a file with **Document** in the Open row at the bottom of the sidebar, brow
 
 Complete text documents up to 10 KB read for free, and PDFs and images always do. Larger text documents show a fading preview of the first 10 KB and an invitation to unlock the rest. Folio Plus unlocks them and, on Mac, adds Export to PDF and Print.
 
-- **Folio Plus Lifetime**, $9.99 (USD), one purchase, no recurring charge.
-- **Folio Plus Monthly**, $1.99 (USD) per month, renewing automatically until canceled.
+- **Folio Plus Lifetime**, $19.99 (USD), one purchase, no recurring charge.
+- **Folio Plus Yearly**, $9.99 (USD) per year, renewing automatically until canceled.
 
 Both include Family Sharing. Prices in other regions appear in the app. Buying the lifetime unlock does not cancel a subscription; cancel that in your Apple Account settings.
 

@@ -30,8 +30,8 @@ There is no account, no analytics, no advertising, and no upload service. Docume
 
 Read complete text documents up to 10 KB for free, and view PDFs and images without limit. Folio Plus unlocks larger documents and, on Mac, Export to PDF and Print:
 
-- **Folio Plus Lifetime**, a one-time purchase of $9.99 (USD).
-- **Folio Plus Monthly**, an auto-renewing subscription of $1.99 (USD) per month.
+- **Folio Plus Lifetime**, a one-time purchase of $19.99 (USD).
+- **Folio Plus Yearly**, an auto-renewing subscription of $9.99 (USD) per year.
 
 Both support Family Sharing. Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period, and can be managed in your Apple Account settings.
 
