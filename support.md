@@ -34,6 +34,10 @@ Everything stays on your device: documents, bookmarks, and settings. There is no
 
 ## Troubleshooting
 
+**A reStructuredText page looks different from its website.** Folio renders the file itself. Whatever a documentation build assembles from other files stays out of reach: an included file shows as a one-line placeholder, a reference into another page shows its text without a link, and a version number the build supplies stays as written. Signatures, notes, code, tables, and links to PEPs, RFCs, and issues render as on the site.
+
+**Part of a README's HTML is missing.** HTML inside Markdown renders for a fixed set of tags: links, images, tables, collapsible sections, alignment, and text formatting. Scripts, styles, frames, and event handlers are removed, and an image with a path relative to a local file shows its alternative text instead.
+
 **A file is greyed out in the picker.** The picker offers text files, PDFs, and images; other binaries are greyed out. A text file with no extension, or an unfamiliar one, is greyed out there too, but the folder browser lists it because it looks at contents rather than names.
 
 **A file is greyed out in the folder browser.** Its name says text, but its contents are not, for example a binary property list.
