@@ -2,7 +2,7 @@
 title: Folio Support
 permalink: /support/
 ---
-Folio is a native reader for Markdown, text, code, PDFs, and images on iPhone, iPad, and Mac, made by BlueTao LLC. This page answers the common questions; for anything else, write to [folio@bluetao.com](mailto:folio@bluetao.com) or open an issue on [Folio's support repository](https://github.com/BlueTaoLLC/FolioApp/issues).
+Folio is a native reader for Markdown, reStructuredText, text, code, PDFs, and images on iPhone, iPad, and Mac, made by BlueTao LLC. This page answers the common questions; for anything else, write to folio@bluetao.com or open an issue on Folio's support repository at https://github.com/BlueTaoLLC/FolioApp/issues.
 
 ## Getting started
 
@@ -10,10 +10,10 @@ Open a file with **Document** in the Open row at the bottom of the sidebar, brow
 
 ## Reading
 
-- The outline button jumps between headings in Markdown and between bookmarks in a PDF.
+- The outline button jumps between headings in Markdown and reStructuredText and between bookmarks in a PDF.
 - Find highlights every match in the page or PDF.
 - Reading settings choose light, dark, or automatic appearance, serif or sans-serif type, text size, line spacing, and page width. Settings → Code chooses a color scheme for code or turns coloring off.
-- Show Source reveals the Markdown itself. Share sends the text, or the file for PDFs and images.
+- Show Source reveals the document's own text. Share sends the text, or the file for PDFs and images.
 
 ## Folio Plus
 

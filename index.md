@@ -2,13 +2,13 @@
 title: Folio
 permalink: /
 ---
-<p class="lede">A quiet, native reader for Markdown, code, PDFs, and images on iPhone, iPad, and Mac. Your files stay on your device, and there is nothing to sign up for.</p>
+<p class="lede">A quiet, native reader for Markdown, reStructuredText, code, PDFs, and images on iPhone, iPad, and Mac. Your files stay on your device, and there is nothing to sign up for.</p>
 
 Folio is being prepared for the App Store. This page will carry the download link when it is available; the [support](support/) and [privacy](privacy/) pages are already here.
 
-## Markdown the way it was meant to look
+## Markdown and reStructuredText the way they were meant to look
 
-Headings, lists, tables, task lists, blockquotes, code blocks, links, and images render on a page designed for reading, in light or dark, with serif or sans-serif type, and with text size, line spacing, and page width under your control. Equations in TeX notation render offline. An outline jumps between headings, Find highlights every match, and Show Source reveals the Markdown itself.
+Headings, lists, tables, task lists, blockquotes, code blocks, links, and images render on a page designed for reading, in light or dark, with serif or sans-serif type, and with text size, line spacing, and page width under your control. Equations in TeX notation render offline. An outline jumps between headings, Find highlights every match, and Show Source reveals the document's own text. reStructuredText files render the same way, with the Sphinx signatures, version notes, and cross-references of Python's own documentation.
 
 ## Every text file, exactly as written
 
