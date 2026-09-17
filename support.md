@@ -36,6 +36,8 @@ Everything stays on your device: documents, bookmarks, and settings. There is no
 
 **A reStructuredText page looks different from its website.** Folio renders the file itself. Whatever a documentation build assembles from other files stays out of reach: an included file shows as a one-line placeholder, a reference into another page shows its text without a link, and a version number the build supplies stays as written. Signatures, notes, code, tables, and links to PEPs, RFCs, and issues render as on the site.
 
+**The lines at the top of a Markdown file are not all shown.** A block between `---` lines at the very top is front matter. Folio shows its title, subtitle, authors, date, and abstract as a title page and leaves out the keys meant for a site generator, such as layout and tags. Show Source displays every line.
+
 **Part of a README's HTML is missing.** HTML inside Markdown renders for a fixed set of tags: links, images, tables, collapsible sections, alignment, and text formatting. Scripts, styles, frames, and event handlers are removed, and an image with a path relative to a local file shows its alternative text instead.
 
 **A file is greyed out in the picker.** The picker offers text files, PDFs, and images; other binaries are greyed out. A text file with no extension, or an unfamiliar one, is greyed out there too, but the folder browser lists it because it looks at contents rather than names.
@@ -44,7 +46,7 @@ Everything stays on your device: documents, bookmarks, and settings. There is no
 
 **"Source unavailable; showing saved copy."** The original file or website could not be reached; the saved text is shown. Reveal Source Location shows where Folio last found it. Files imported by very early versions may need reopening to reconnect their source.
 
-**A link will not open.** Links must be HTTPS and point at a text file. GitHub file pages are converted automatically. Private repositories need a token with read-only Contents permission under Settings → GitHub; Verify there checks it.
+**A link will not open.** Links must be HTTPS and point at a text file, a PDF, or an image. GitHub file pages are converted automatically. Private repositories need a token with read-only Contents permission under Settings → GitHub; Verify there checks it.
 
 **Words inside a comment are colored.** The file is being read as the wrong language. `.m` files are told apart by their contents; every other file is recognised by its extension. Coloring can be turned off in Settings → Code.
 
