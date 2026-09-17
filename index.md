@@ -4,7 +4,7 @@ permalink: /
 ---
 <p class="lede">A quiet, native reader for Markdown, reStructuredText, code, PDFs, and images on iPhone, iPad, and Mac. Your files stay on your device, and there is nothing to sign up for.</p>
 
-Folio is being prepared for the App Store. This page will carry the download link when it is available; the [support](support/) and [privacy](privacy/) pages are already here.
+Folio is in review for the App Store. This page will carry the download link when it is available; the [support](support/) and [privacy](privacy/) pages are already here.
 
 ## Markdown and reStructuredText the way they were meant to look
 
