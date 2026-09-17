@@ -6,7 +6,7 @@ Folio is a native reader for Markdown, reStructuredText, text, code, PDFs, and i
 
 ## Getting started
 
-Open a file with **Document** in the Open row at the bottom of the sidebar, browse a whole folder with **Folder**, or paste a GitHub file link or a direct HTTPS link with **Link**. You can also drag a file into the window or use Open With from another app. Files you open join Your Library; text is saved for offline reading, while PDFs and images are viewed from where they are.
+Open a file with **Document** in the Open row at the bottom of the sidebar, browse a whole folder with **Folder**, or paste a GitHub file link or a direct HTTPS link with **Link**. You can also drag a file into the window or use Open With from another app. Files you open join Your Library; text is saved for offline reading, while PDFs and images are viewed from where they are. A PDF or image opened from a link is downloaded once and kept with the library.
 
 ## Reading
 

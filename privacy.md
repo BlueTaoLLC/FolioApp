@@ -2,7 +2,7 @@
 title: Folio Privacy Policy
 permalink: /privacy/
 ---
-Folio collects no data. It stores your document text, source URLs, file-access bookmarks, and reading preferences on your device, and it has no developer-operated account, analytics, advertising, or document-upload service. PDFs and images are viewed from your files where they are: Folio keeps only their location and a file-access bookmark, never a copy. Code coloring, search, and the folder browser's look at the first bytes of each file all happen on your device. Documents never run code: HTML inside a Markdown file is reduced to a fixed set of safe tags before it reaches the page, and scripts, styles, and frames are removed.
+Folio collects no data. It stores your document text, source URLs, file-access bookmarks, and reading preferences on your device, and it has no developer-operated account, analytics, advertising, or document-upload service. PDFs and images are viewed from your files where they are: Folio keeps only their location and a file-access bookmark, never a copy. A PDF or image opened from a link is the exception: Folio downloads it once and keeps that copy with the library until you remove the entry. Code coloring, search, and the folder browser's look at the first bytes of each file all happen on your device. Documents never run code: HTML inside a Markdown file is reduced to a fixed set of safe tags before it reaches the page, and scripts, styles, and frames are removed.
 
 If you add a GitHub personal access token in Settings so that private repositories can be read, Folio stores it in the device Keychain and sends it only with requests to GitHub's servers. It is never transmitted anywhere else, and you can remove it in Settings at any time.
 

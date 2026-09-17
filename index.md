@@ -20,7 +20,7 @@ PDFs open with their own outline and Find. JPEG, PNG, HEIC, GIF, TIFF, WebP, BMP
 
 ## Files, folders, and links
 
-Open a document, browse a whole folder, drop a file into the window, or paste a link. GitHub file links and direct HTTPS links to text are saved for offline reading and refreshed while you read. Private repositories work with a personal access token that stays in your device's Keychain.
+Open a document, browse a whole folder, drop a file into the window, or paste a link. GitHub file links and direct HTTPS links to text, PDFs, and images are saved for offline reading, and text is refreshed while you read. Private repositories work with a personal access token that stays in your device's Keychain.
 
 ## Yours, and only yours
 
