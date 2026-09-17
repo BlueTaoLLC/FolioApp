@@ -35,6 +35,8 @@ Everything stays on your device: documents, bookmarks, and settings. There is no
 
 ## Troubleshooting
 
+**How do I start over?** The ⋯ button beside Your Library offers Clear Library, which forgets every saved copy, including PDFs and images downloaded from links, and never touches your original files. Settings ends with Reset All Settings, which returns appearance, reading, code colors, sidebar, and privacy preferences to their defaults and leaves the library, the GitHub token, and Folio Plus as they are.
+
 **A reStructuredText page looks different from its website.** Folio renders the file itself. Whatever a documentation build assembles from other files stays out of reach: an included file shows as a one-line placeholder, a reference into another page shows its text without a link, and a version number the build supplies stays as written. Signatures, notes, code, tables, and links to PEPs, RFCs, and issues render as on the site.
 
 **The lines at the top of a Markdown file are not all shown.** A block between `---` lines at the very top is front matter. Folio shows its title, subtitle, authors, date, and abstract as a title page and leaves out the keys meant for a site generator, such as layout and tags. Show Source displays every line.
