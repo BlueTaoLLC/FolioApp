@@ -16,7 +16,7 @@ JSON, YAML, TOML, XML, HTML, CSS, shell scripts, Makefiles, logs, diffs, and sou
 
 ## PDFs and images, without leaving the app
 
-PDFs open with their own outline and Find. JPEG, PNG, HEIC, GIF, TIFF, WebP, BMP, and AVIF images fit the screen and zoom smoothly. Both are viewed from your files where they are, never copied.
+PDFs open with their own outline and Find. JPEG, PNG, HEIC, GIF, TIFF, WebP, BMP, and AVIF images fit the screen and zoom smoothly. Both are viewed from your files where they are; only one opened from a link is downloaded and kept.
 
 ## Files, folders, and links
 
