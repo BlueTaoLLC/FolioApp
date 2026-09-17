@@ -13,6 +13,7 @@ Open a file with **Document** in the Open row at the bottom of the sidebar, brow
 - The outline button jumps between headings in Markdown and reStructuredText and between bookmarks in a PDF.
 - Find highlights every match in the page or PDF.
 - Reading settings choose light, dark, or automatic appearance, serif or sans-serif type, text size, line spacing, and page width. Settings → Code chooses a color scheme for code or turns coloring off.
+- Settings → Sidebar sets the text size of Your Library, File Browser, and the outline, and the spacing between rows. On iPhone and iPad the sidebar also follows the text size chosen in the system's Settings app.
 - Show Source reveals the document's own text. Share offers Share Source, the document as a file, and Export PDF, a paginated copy of the page; for PDFs and images it sends the file.
 
 ## Folio Plus
