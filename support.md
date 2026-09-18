@@ -12,7 +12,7 @@ Open a file with **Document** in the Open row at the bottom of the sidebar, brow
 
 - The outline button jumps between headings in Markdown and reStructuredText and between bookmarks in a PDF.
 - Find highlights every match in the page or PDF.
-- The Settings button in the library's toolbar switches between light and dark, and on iPhone so does the top of the reader's ⋯ menu. Reading settings choose the appearance too, including Automatic, which follows the system, along with serif or sans-serif type, text size, line spacing, and page width. Settings → Code chooses a color scheme for code or turns coloring off.
+- The Settings button in the toolbar switches between light and dark, and on iPhone so does the top of the reader's ⋯ menu. Reading settings choose the appearance too, including Automatic, which follows the system, along with serif or sans-serif type, text size, line spacing, and page width. Settings → Code chooses a color scheme for code or turns coloring off.
 - Settings → Sidebar sets the text size of Your Library, File Browser, and the outline, and the spacing between rows. On iPhone and iPad the sidebar also follows the text size chosen in the system's Settings app.
 - Show Source reveals the document's own text. Share offers Share Source, the document as a file, and Export PDF, a paginated copy of the page; for PDFs and images it sends the file.
 
@@ -25,7 +25,7 @@ Complete text documents up to 10 KB read for free, and PDFs and images always do
 
 Both include Family Sharing. Prices in other regions appear in the app. Buying the lifetime unlock does not cancel a subscription; cancel that in your Apple Account settings.
 
-**Already purchased on another device?** Open the purchase screen (the Settings button in the library's toolbar → Folio Plus, or from the preview's invitation) and choose Restore Purchases.
+**Already purchased on another device?** Open the purchase screen (the Settings button in the toolbar → Folio Plus, or from the preview's invitation) and choose Restore Purchases.
 
 **Canceling or refunds.** Subscriptions are managed in Settings → Apple Account → Subscriptions on iPhone and iPad, or in App Store → Account on Mac. Refunds are handled by Apple at reportaproblem.apple.com. Your documents stay in the library either way.
 
