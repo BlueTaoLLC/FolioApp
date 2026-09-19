@@ -14,7 +14,8 @@ Open a file with **Document** in the Open row at the bottom of the sidebar, brow
 - Find highlights every match in the page or PDF.
 - The Settings button in the toolbar switches between light and dark, and on iPhone so does the top of the reader's ⋯ menu. Reading settings choose the appearance too, including Automatic, which follows the system, along with serif or sans-serif type, text size, line spacing, and page width. Settings → Code chooses a color scheme for code or turns coloring off.
 - Settings → Sidebar sets the text size of Your Library, File Browser, and the outline, and the spacing between rows. On iPhone and iPad the sidebar also follows the text size chosen in the system's Settings app.
-- Show Source reveals the document's own text. Share offers Share Source, the document as a file, and Export PDF, a paginated copy of the page; for PDFs and images it sends the file.
+- Links open in your browser or mail app. With a mouse or trackpad, rest the pointer on a link to see its address first.
+- Show Source reveals the document's own text at the place you were reading, in the text size you chose, and Show Preview returns to the same place. Code files and Show Source number their lines; **Line numbers** in the reading settings, or under Settings → Code, hides them. Share offers Share Source, the document as a file, and Export PDF, a paginated copy of the page; for PDFs and images it sends the file.
 
 ## Folio Plus
 
@@ -40,6 +41,8 @@ Everything stays on your device: documents, bookmarks, and settings. There is no
 **A reStructuredText page looks different from its website.** Folio renders the file itself. Whatever a documentation build assembles from other files stays out of reach: an included file shows as a one-line placeholder, a reference into another page shows its text without a link, and a version number the build supplies stays as written. Signatures, notes, code, tables, and links to PEPs, RFCs, and issues render as on the site.
 
 **The lines at the top of a Markdown file are not all shown.** A block between `---` lines at the very top is front matter. Folio shows its title, subtitle, authors, date, and abstract as a title page and leaves out the keys meant for a site generator, such as layout and tags. Show Source displays every line.
+
+**A picture shows as a small frame marked Picture.** The document is a file on your device and the picture is another file beside it. Folio can read the file you opened, not its neighbours, so it shows the picture's caption and file name in its place. Pictures at an HTTPS address load, and so do a document's own pictures when the document is opened from a link.
 
 **Part of a README's HTML is missing.** HTML inside Markdown renders for a fixed set of tags: links, images, tables, collapsible sections, alignment, and text formatting. Scripts, styles, frames, and event handlers are removed, and an image with a path relative to a local file shows its alternative text instead.
 
