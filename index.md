@@ -8,11 +8,11 @@ Folio is in review for the App Store. This page will carry the download link whe
 
 ## Markdown and reStructuredText the way they were meant to look
 
-Headings, lists, tables, task lists, blockquotes, code blocks, links, and images render on a page designed for reading, in light or dark, with serif or sans-serif type, and with text size, line spacing, and page width under your control. Equations in TeX notation render offline. An outline jumps between headings, Find highlights every match, Show Source reveals the document's own text, and Share offers the source file or a PDF of the page. reStructuredText files render the same way, with the Sphinx signatures, version notes, and cross-references of Python's own documentation.
+Headings, lists, tables, task lists, blockquotes, code blocks, links, and images render on a page designed for reading, in light or dark, with serif or sans-serif type, and with text size, line spacing, and page width under your control. Equations in TeX notation render offline. An outline jumps between headings, Find highlights every match, Show Source reveals the document's own text at the place you were reading, and Share offers the source file or a PDF of the page. reStructuredText files render the same way, with the Sphinx signatures, version notes, and cross-references of Python's own documentation.
 
 ## Every text file, exactly as written
 
-JSON, YAML, TOML, XML, HTML, CSS, shell scripts, Makefiles, logs, diffs, and source code in any common language open verbatim, with tabs, indentation, and long lines preserved. Code is colored by language, with three schemes and six editable colors, or no coloring at all if you prefer.
+JSON, YAML, TOML, XML, HTML, CSS, shell scripts, Makefiles, logs, diffs, and source code in any common language open verbatim, with line numbers, and with tabs, indentation, and long lines preserved. Code is colored by language, with three schemes and six editable colors, or no coloring at all if you prefer.
 
 ## PDFs and images, without leaving the app
 
