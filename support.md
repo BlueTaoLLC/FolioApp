@@ -44,7 +44,7 @@ Everything stays on your device: documents, bookmarks, and settings. There is no
 
 **A picture shows as a small frame marked Picture.** The document is a file on your device and the picture is another file beside it. Folio can read the file you opened, not its neighbours, so it shows the picture's caption and file name in its place. Pictures at an HTTPS address load, and so do a document's own pictures when the document is opened from a link.
 
-**Part of a README's HTML is missing.** HTML inside Markdown renders for a fixed set of tags: links, images, tables, collapsible sections, alignment, and text formatting. Scripts, styles, frames, and event handlers are removed, and an image with a path relative to a local file shows its alternative text instead.
+**Part of a README's HTML is missing.** HTML inside Markdown renders for a fixed set of tags: links, images, tables, collapsible sections, alignment, and text formatting. Scripts, styles, frames, and event handlers are removed, and a picture with a path relative to a local file shows as a small frame with its caption and file name instead.
 
 **A file is greyed out in the picker.** The picker offers text files, PDFs, and images; other binaries are greyed out. A text file with no extension, or an unfamiliar one, is greyed out there too, but the folder browser lists it because it looks at contents rather than names.
 
