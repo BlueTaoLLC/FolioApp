@@ -14,6 +14,7 @@ Open a file with **Document** in the Open row at the bottom of the sidebar, brow
 - Find highlights every match in the page or PDF.
 - The Settings button in the toolbar switches between light and dark, and on iPhone so does the top of the reader's ⋯ menu. Reading settings choose the appearance too, including Automatic, which follows the system, along with serif or sans-serif type, text size, line spacing, and page width. Settings → Code chooses a color scheme for code or turns coloring off.
 - Settings → Sidebar sets the text size of Your Library, File Browser, and the outline, and the spacing between rows. On iPhone and iPad the sidebar also follows the text size chosen in the system's Settings app.
+- A code block labelled `mermaid` is drawn as a diagram — flowcharts, sequence and class diagrams, state, entity-relationship, Gantt, pie, user journeys, Git graphs, and mind maps — on your device, with no connection.
 - Links open in your browser or mail app. With a mouse or trackpad, rest the pointer on a link to see its address first.
 - Show Source reveals the document's own text at the place you were reading, in the text size you chose, and Show Preview returns to the same place. Code files and Show Source number their lines; **Line numbers** in the reading settings, or under Settings → Code, hides them. Share offers Share Source, the document as a file, and Export PDF, a paginated copy of the page; for PDFs and images it sends the file.
 
@@ -28,11 +29,13 @@ Both include Family Sharing. Prices in other regions appear in the app. Buying t
 
 **Already purchased on another device?** Open the purchase screen (the Settings button in the toolbar → Folio Plus, or from the preview's invitation) and choose Restore Purchases.
 
+**Have an offer code?** Choose Redeem Code on the same screen and enter it in Apple's code sheet; Folio Plus unlocks as soon as Apple confirms it. Redeem Code is on iPhone, iPad, and Macs with macOS 15 or later. On a Mac with macOS 14, redeem the code on another device signed in to the same Apple Account, then choose Restore Purchases on the Mac.
+
 **Canceling or refunds.** Subscriptions are managed in Settings → Apple Account → Subscriptions on iPhone and iPad, or in App Store → Account on Mac. Refunds are handled by Apple at reportaproblem.apple.com. Your documents stay in the library either way.
 
 ## Privacy
 
-Everything stays on your device: documents, bookmarks, and settings. There is no account, analytics, or advertising. Opening a link contacts the site you typed. A document's images are fetched from their hosts unless Settings → Privacy → Load images from the web is off. A GitHub personal access token, if you add one, lives in the device Keychain and is sent only to GitHub. Read the full [privacy policy](../privacy/).
+Everything stays on your device: documents, bookmarks, and settings. There is no account, analytics, or advertising. Opening a link contacts the site you typed. A document's images are fetched from their hosts unless Settings → Privacy → Load images from the web is off. A GitHub personal access token, if you add one, lives in the device Keychain and is sent only to GitHub, with the documents you open from it and the pictures in their own repositories. Read the full [privacy policy](../privacy/).
 
 ## Troubleshooting
 
@@ -42,9 +45,11 @@ Everything stays on your device: documents, bookmarks, and settings. There is no
 
 **The lines at the top of a Markdown file are not all shown.** A block between `---` lines at the very top is front matter. Folio shows its title, subtitle, authors, date, and abstract as a title page and leaves out the keys meant for a site generator, such as layout and tags. Show Source displays every line.
 
-**A picture shows as a small frame marked Picture.** The document is a file on your device and the picture is another file beside it. Folio can read the file you opened, not its neighbours, so it shows the picture's caption and file name in its place. Pictures at an HTTPS address load, and so do a document's own pictures when the document is opened from a link.
+**A picture shows as a small frame marked Picture.** Folio shows a picture's caption and file name in its place when it may not load it. Pictures at an HTTPS address load, and so do a document's own pictures when it was opened from a link — a private repository's too, once your token is set under Settings → GitHub. A document on your device shows the pictures beside it — SVG figures as well as PNG and JPEG — when you opened it through **Folder**, because choosing a folder gives Folio that whole folder to read — including a neighbouring folder such as `../figures/`. A file opened on its own grants only itself, so open its folder instead. A picture outside the folder you chose, or one whose file has been moved or renamed, keeps the frame.
 
-**Part of a README's HTML is missing.** HTML inside Markdown renders for a fixed set of tags: links, images, tables, collapsible sections, alignment, and text formatting. Scripts, styles, frames, and event handlers are removed, and a picture with a path relative to a local file shows as a small frame with its caption and file name instead.
+**Part of a README's HTML is missing.** HTML inside Markdown renders for a fixed set of tags: links, images, tables, collapsible sections, alignment, and text formatting. Scripts, styles, frames, and event handlers are removed. Pictures inside HTML follow the same rule as any other picture, above.
+
+**A diagram shows as text under a Diagram label.** A code block labelled `mermaid` is drawn as a diagram. Folio keeps the source instead when the diagram's syntax cannot be read, when the free preview ends partway through it, when it has more than 300 connections, or when its source runs past 8 KB or 400 lines — limits that keep a document from stalling while you read it. Text in scripts such as Chinese takes more room per character, so a diagram written in one reaches 8 KB sooner. Nothing the author wrote is lost, and Show Source always has the original.
 
 **A file is greyed out in the picker.** The picker offers text files, PDFs, and images; other binaries are greyed out. A text file with no extension, or an unfamiliar one, is greyed out there too, but the folder browser lists it because it looks at contents rather than names.
 

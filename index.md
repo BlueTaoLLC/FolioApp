@@ -4,11 +4,11 @@ permalink: /
 ---
 <p class="lede">A quiet, native reader for Markdown, reStructuredText, code, PDFs, and images on iPhone, iPad, and Mac. Your files stay on your device, and there is nothing to sign up for.</p>
 
-Folio is in review for the App Store. This page will carry the download link when it is available; the [support](support/) and [privacy](privacy/) pages are already here.
+[Get Folio on the App Store](https://apps.apple.com/app/id6812495228), for iPhone, iPad, and Mac. Questions are answered on the [support](support/) page.
 
 ## Markdown and reStructuredText the way they were meant to look
 
-Headings, lists, tables, task lists, blockquotes, code blocks, links, and images render on a page designed for reading, in light or dark, with serif or sans-serif type, and with text size, line spacing, and page width under your control. Equations in TeX notation render offline. An outline jumps between headings, Find highlights every match, Show Source reveals the document's own text at the place you were reading, and Share offers the source file or a PDF of the page. reStructuredText files render the same way, with the Sphinx signatures, version notes, and cross-references of Python's own documentation.
+Headings, lists, tables, task lists, blockquotes, code blocks, links, and images render on a page designed for reading, in light or dark, with serif or sans-serif type, and with text size, line spacing, and page width under your control. Equations in TeX notation render offline, and diagrams written in Mermaid are drawn offline too. An outline jumps between headings, Find highlights every match, Show Source reveals the document's own text at the place you were reading, and Share offers the source file or a PDF of the page. reStructuredText files render the same way, with the Sphinx signatures, version notes, and cross-references of Python's own documentation.
 
 ## Every text file, exactly as written
 
@@ -20,7 +20,7 @@ PDFs open with their own outline and Find. JPEG, PNG, HEIC, GIF, TIFF, WebP, BMP
 
 ## Files, folders, and links
 
-Open a document, browse a whole folder, drop a file into the window, or paste a link. GitHub file links and direct HTTPS links to text, PDFs, and images are saved for offline reading, and text is refreshed while you read. Private repositories work with a personal access token that stays in your device's Keychain.
+Open a document, browse a whole folder, whose documents show the pictures stored beside them, drop a file into the window, or paste a link. GitHub file links and direct HTTPS links to text, PDFs, and images are saved for offline reading, and text is refreshed while you read. Private repositories, and the pictures inside them, work with a personal access token that stays in your device's Keychain.
 
 ## Yours, and only yours
 
@@ -33,6 +33,6 @@ Read complete text documents up to 10 KB for free, and view PDFs and images with
 - **Folio Plus Lifetime**, a one-time purchase of $19.99 (USD).
 - **Folio Plus Yearly**, an auto-renewing subscription of $9.99 (USD) per year.
 
-Both support Family Sharing. Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period, and can be managed in your Apple Account settings.
+Both support Family Sharing. Have an offer code? Choose Redeem Code on the purchase screen. Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period, and can be managed in your Apple Account settings.
 
 Requires iOS 17, iPadOS 17, or macOS 14 or later.
