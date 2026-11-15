@@ -45,7 +45,7 @@ With Folio Plus, **Edit** in the reader's toolbar (in the ⋯ menu on iPhone) ed
 
 **Folio says the file changed elsewhere.** Another app or a sync service changed the file while you edited. Keep Mine writes your version over it, Take Theirs reloads the file, and Save as New File keeps both.
 
-**A file can't be edited.** Folio edits UTF-8 text up to 10 MB that is on your device; a file in another encoding, such as UTF-16, or a document opened from a link can still be read.
+**A file can't be edited.** Folio edits UTF-8 text up to 10 MB that is on your device; a file in another encoding, such as UTF-16, can still be read. For a document opened from a link, Edit offers Download and Edit, which saves a copy where you choose and opens the copy in the editor.
 
 ## Privacy
 
