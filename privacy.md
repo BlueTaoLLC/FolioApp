@@ -8,6 +8,8 @@ If you add a GitHub personal access token in Settings so that private repositori
 
 When you open or refresh a remote document, Folio requests it from the source website. Remote HTTPS images, including pictures a linked document references by a relative path (they resolve to the document's own site), are requested from their hosts unless **Load images from the web** is off in Settings, in which case no document can contact an image host. Those services can receive your network address, requested URL, and normal connection information. Source URLs, including any query parameters you supply, are saved with your local document. The selected website document is checked periodically while Folio is active.
 
+Editing a file, a Folio Plus feature, writes only to files on your device: until you choose where the edits go, a new file in Folio's own Edits folder (on iPhone and iPad, Folio's folder in the Files app, which you can open and delete from), then the original file or a new file you choose. Edits never leave your device.
+
 Apple processes purchases and offer code redemptions. Folio receives verified purchase and Family Sharing entitlement information from Apple's in-app purchase system so it can unlock paid features, and keeps it on the device. Folio does not receive your payment-card information. Apple's services are governed by Apple's privacy policy.
 
 Copying places text on the system clipboard. Sharing sends the text to the destination you choose. System clipboard synchronization and device backups follow your operating-system settings and may include Folio data.

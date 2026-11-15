@@ -20,7 +20,7 @@ Open a file with **Document** in the Open row at the bottom of the sidebar, brow
 
 ## Folio Plus
 
-Complete text documents up to 10 KB read for free, and PDFs and images always do. Larger text documents show a fading preview of the first 10 KB and an invitation to unlock the rest. Folio Plus unlocks them, along with Export PDF and, on Mac, Print.
+Complete text documents up to 10 KB read for free, and PDFs and images always do. Larger text documents show a fading preview of the first 10 KB and an invitation to unlock the rest. Folio Plus unlocks them, along with editing, Export PDF, and, on Mac, Print.
 
 - **Folio Plus Lifetime**, $19.99 (USD), one purchase, no recurring charge.
 - **Folio Plus Yearly**, $9.99 (USD) per year, renewing automatically until canceled.
@@ -32,6 +32,18 @@ Both include Family Sharing. Prices in other regions appear in the app. Buying t
 **Have an offer code?** Choose Redeem Code on the same screen and enter it in Apple's code sheet; Folio Plus unlocks as soon as Apple confirms it. Redeem Code is on iPhone, iPad, and Macs with macOS 15 or later. On a Mac with macOS 14, redeem the code on another device signed in to the same Apple Account, then choose Restore Purchases on the Mac.
 
 **Canceling or refunds.** Subscriptions are managed in Settings → Apple Account → Subscriptions on iPhone and iPad, or in App Store → Account on Mac. Refunds are handled by Apple at reportaproblem.apple.com. Your documents stay in the library either way.
+
+## Editing
+
+With Folio Plus, **Edit** in the reader's toolbar (in the ⋯ menu on iPhone) edits a text file from your device: Markdown, reStructuredText, JSON, YAML, TOML, XML, HTML, CSS, shell scripts, Makefiles, and source code, colored as you type and indented to suit the language.
+
+**Where are my edits?** Folio saves a moment after you stop typing. Until you choose, edits go to a new file in Folio's Edits folder (on iPhone and iPad: Files › On My iPhone or On My iPad › Folio › Edits), and the dot beside the title is red. Choose Replace the Original to save into the file itself, or Save as New File to keep a copy elsewhere; the dot turns green. The full path of each file is shown under the editor. If Folio quit before you chose, opening the document shows where the edits are, with Continue Editing.
+
+**Folio asks me to choose the file again (Mac).** Files added before editing existed were allowed to be read, not written. Choose the same file once in the panel, and Folio may save there from then on.
+
+**Folio says the file changed elsewhere.** Another app or a sync service changed the file while you edited. Keep Mine writes your version over it, Take Theirs reloads the file, and Save as New File keeps both.
+
+**A file can't be edited.** Folio edits UTF-8 text up to 10 MB that is on your device; a file in another encoding, such as UTF-16, or a document opened from a link can still be read.
 
 ## Privacy
 
