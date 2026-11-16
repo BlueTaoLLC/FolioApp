@@ -39,6 +39,8 @@ With Folio Plus, **Edit** in the reader's toolbar (in the ⋯ menu on iPhone) ed
 
 **Where are my edits?** Folio saves a moment after you stop typing. Until you choose, edits go to a new file in Folio's Edits folder (on iPhone and iPad: Files › On My iPhone or On My iPad › Folio › Edits), and the dot beside the title is red. Choose Replace the Original to save into the file itself, or Save as New File to keep a copy elsewhere; the dot turns green. The full path of each file is shown under the editor. If Folio quit before you chose, opening the document shows where the edits are, with Continue Editing.
 
+**How do I make a new file?** Choose New in the Open row (⌘N; on Mac also File › New Document…). Give the file a name and a type, choose where it is saved, and it opens in the editor, saving into itself as you type. Like editing, it is part of Folio Plus.
+
 **How do I undo all my edits?** Choose Restore Original… from the dot's menu while editing, or from the document's menu in the library (right-click on Mac, touch and hold on iPhone and iPad). Before Folio first saves over a file, it keeps a copy of the file as it was; restoring puts that copy back exactly. In the editor, Undo then brings your edits back. If Folio has not saved over the file yet, restoring simply discards the edits waiting in the Edits folder.
 
 **Folio asks me to choose the file again (Mac).** Files added before editing existed were allowed to be read, not written. Choose the same file once in the panel, and Folio may save there from then on.
