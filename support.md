@@ -55,7 +55,7 @@ Everything stays on your device: documents, bookmarks, and settings. There is no
 
 ## Troubleshooting
 
-**How do I start over?** The ⋯ button beside Your Library offers Clear Library, which forgets every saved copy, including PDFs and images downloaded from links and the originals kept for Restore Original, and never touches your original files. Settings ends with Reset All Settings, which returns appearance, reading, code colors, sidebar, and privacy preferences to their defaults and leaves the library, the GitHub token, and Folio Plus as they are.
+**How do I start over?** The ⋯ button beside Your Library offers Clear Library, which forgets every saved copy, including PDFs and images downloaded from links and the originals kept for Restore Original, and never touches your original files; the folders you gave Folio stay under Settings → Folders until you remove them there. Settings ends with Reset All Settings, which returns appearance, reading, code colors, sidebar, and privacy preferences to their defaults and leaves the library, its folders, the GitHub token, and Folio Plus as they are.
 
 **A reStructuredText page looks different from its website.** Folio renders the file itself. Whatever a documentation build assembles from other files stays out of reach: an included file shows as a one-line placeholder, a reference into another page shows its text without a link, and a version number the build supplies stays as written. Signatures, notes, code, tables, and links to PEPs, RFCs, and issues render as on the site.
 
