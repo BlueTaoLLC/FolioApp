@@ -2,7 +2,7 @@
 title: Folio
 permalink: /
 ---
-<p class="lede">A quiet, native reader for Markdown, reStructuredText, code, PDFs, and images on iPhone, iPad, and Mac. Your files stay on your device, and there is nothing to sign up for.</p>
+<p class="lede">A quiet, native reader and editor for Markdown, reStructuredText, code, PDFs, and images on iPhone, iPad, and Mac. Your files stay on your device, and there is nothing to sign up for.</p>
 
 [Get Folio on the App Store](https://apps.apple.com/app/id6812495228), for iPhone, iPad, and Mac. Questions are answered on the [support](support/) page.
 
@@ -14,6 +14,10 @@ Headings, lists, tables, task lists, blockquotes, code blocks, links, and images
 
 JSON, YAML, TOML, XML, HTML, CSS, shell scripts, Makefiles, logs, diffs, and source code in any common language open verbatim, with line numbers, and with tabs, indentation, and long lines preserved. Code is colored by language, with three schemes and six editable colors, or no coloring at all if you prefer.
 
+## Edit what you read
+
+With Folio Plus, edit the text files on your device: Markdown, reStructuredText, JSON, YAML, TOML, XML, HTML, CSS, shell scripts, Makefiles, and source code, colored as you type, with indentation that follows the language, matching brackets, and Find and Replace. New starts a file of your own, of any of those types, wherever you choose, and a document opened from a link can be saved as a copy to edit. Folio saves a moment after you stop typing, first to a new file in its own Edits folder so nothing is lost, then to the original or a new file once you choose. Line endings, permissions, and the file itself stay as they were. Restore Original puts a file back exactly as it was before Folio first saved over it.
+
 ## PDFs and images, without leaving the app
 
 PDFs open with their own outline and Find. JPEG, PNG, HEIC, GIF, TIFF, WebP, BMP, and AVIF images fit the screen and zoom smoothly. Both are viewed from your files where they are; only one opened from a link is downloaded and kept.
@@ -24,15 +28,10 @@ Open a document, browse a whole folder, whose documents show the pictures stored
 
 ## Yours, and only yours
 
-There is no account, no analytics, no advertising, and no upload service. Documents, bookmarks, and settings stay on your device. A single switch stops documents from loading images from the web. Read the [privacy policy](privacy/).
+There is no account, no analytics, no advertising, and no upload service. Documents, edits, bookmarks, and settings stay on your device. A single switch stops documents from loading images from the web. Read the [privacy policy](privacy/).
 
 ## Free to begin, simple to unlock
 
-Read complete text documents up to 10 KB for free, and view PDFs and images without limit. Folio Plus unlocks larger documents, Export PDF, and, on Mac, Print:
-
-- **Folio Plus Lifetime**, a one-time purchase of $19.99 (USD).
-- **Folio Plus Yearly**, an auto-renewing subscription of $9.99 (USD) per year.
-
-Both support Family Sharing. Have an offer code? Choose Redeem Code on the purchase screen. Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period, and can be managed in your Apple Account settings.
+Read complete text documents up to 10 KB for free, and view PDFs and images without limit. Folio Plus, a one-time purchase or a yearly subscription, unlocks larger documents, editing, Export PDF, and, on Mac, Print, and supports Family Sharing. The purchase screen shows the prices in your currency. Have an offer code? Choose Redeem Code on the purchase screen. Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period, and can be managed in your Apple Account settings.
 
 Requires iOS 17, iPadOS 17, or macOS 14 or later.
